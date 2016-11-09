@@ -1,0 +1,117 @@
+drow_male1_A.png
+size: 32, 768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down1
+  rotate: false
+  xy: 0, 0
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+down2
+  rotate: false
+  xy: 0, 48
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+down3
+  rotate: false
+  xy: 0, 96
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+down4
+  rotate: false
+  xy: 0, 144
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+left1
+  rotate: false
+  xy: 0, 192
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+left2
+  rotate: false
+  xy: 0, 240
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+left3
+  rotate: false
+  xy: 0, 288
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+left4
+  rotate: false
+  xy: 0, 336
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+right1
+  rotate: false
+  xy: 0, 384
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+right2
+  rotate: false
+  xy: 0, 432
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+right3
+  rotate: false
+  xy: 0, 480
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+right4
+  rotate: false
+  xy: 0, 528
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+up1
+  rotate: false
+  xy: 0, 576
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+up2
+  rotate: false
+  xy: 0, 624
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+up3
+  rotate: false
+  xy: 0, 672
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+up4
+  rotate: false
+  xy: 0, 720
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
